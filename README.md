@@ -1,1 +1,1 @@
-# Stopwatch
+# Mini Projects
